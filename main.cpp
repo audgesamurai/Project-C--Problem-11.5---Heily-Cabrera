@@ -6,7 +6,7 @@ The algorithm uses the fact that the set to be permuted consists of distinct num
 You can, however, use this technique to get all permutations of the character positions and then compute a string whose ith character is s[a[i]]. Use this approach to reimplement the generate_permutations function without recursion. **/
 
 //Programmer: Heily Cabrera
-//Tester: Audrey Tapia
+//Tester: Audrey Tapia (TESTED)
 
 // Group Project C //
 /***** Members *****/
